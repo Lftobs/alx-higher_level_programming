@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def upperlettersase(str):
+def uppercase(str):
     for letters in str:
         if ord(letters) >= 97 and ord(letters) <= 122:
             letters = chr(ord(letters) - 32)
