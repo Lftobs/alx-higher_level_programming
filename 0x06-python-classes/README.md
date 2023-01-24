@@ -1,1 +1,1 @@
-classes != lectures
+classes != lectures :) (another dry programming joke)
