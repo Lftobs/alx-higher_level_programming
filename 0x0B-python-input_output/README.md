@@ -1,1 +1,1 @@
-rm
+input output
